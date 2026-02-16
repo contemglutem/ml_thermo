@@ -1,0 +1,25 @@
+Métricas do Modelo
+==================================================
+Amostras: 200
+
+Erros Absolutos:
+  MAE  = 0.413538
+  MSE  = 0.268528
+  RMSE = 0.518197
+
+Erro Percentual:
+  MAPE = 0.12%
+
+Distribuição de Erros:
+  Max  = 1.448128
+  Min  = 0.007790
+  Std  = 0.513871
+
+Qualidade do Ajuste:
+  R²   = -1275.110625
+
+
+Resultados Finais:
+q_flux estimado: 51933.21 W/m²
+q_flux real: 50000.00 W/m²
+Erro relativo: 3.87%
